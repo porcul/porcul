@@ -20,9 +20,9 @@
   <summary><h2 style="display: inline-block">Projects</h2></summary>
   <ol>
     <li>
-      <a href="#about-">PunchBOX</a>
+      <a href="https://github.com/porcul/PunchBOX">PunchBOX</a>
       <ul>
-        <li><a href="#">Logs Repository</a></li>
+        <li><a href="https://github.com/porcul/PunchBOX/tree/main/August%202021">August 2021 Logs</a></li>
       </ul>
     </li>
     <li>

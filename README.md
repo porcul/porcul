@@ -18,7 +18,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block"></h2></summary>
+  <summary><h2 style="display: inline-block"></h2>Projects</summary>
   <ol>
     <li>
       <a href="#about-">PunchBOX</a>

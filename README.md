@@ -10,7 +10,7 @@
   </a>
 
   <p align="center">
-    <i>"The ilusion of free will"</i>
+    <i>"The illusion of free will"</i>
   </p>
 </p>
 

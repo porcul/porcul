@@ -5,8 +5,8 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="https://pigu.ro/web_img/a_c05d81d8cd6727e365ed19fad1524f01.gif" alt="Logo" width="100" height="100">
+  <a href="https://pigu.ro/">
+    <img src="https://pigu.ro/web_img/a_c05d81d8cd6727e365ed19fad1524f01.gif" alt="Logo" width="80" height="80">
   </a>
 
   <p align="center">

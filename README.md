@@ -17,8 +17,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block"></h2>Projects</summary>
+  <summary><h2 style="display: inline-block">Projects</h2></summary>
   <ol>
     <li>
       <a href="#about-">PunchBOX</a>
@@ -34,9 +33,7 @@
     </li>
     <li><a href="#">Other Projects</a></li>
   </ol>
-</details>
-
-
+<br>
 
 <!-- CONTACT -->
 ## Contact

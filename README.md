@@ -34,7 +34,10 @@
         <li><a href="https://github.com/porcul/crekto/blob/main/README.md">About Crekto</a></li>
       </ul>
     </li>
-    <li><a href="#">Other Projects</a></li>
+    <li>Other Projects</li>
+      <ul>
+           <li>N/A</li>
+      </ul>
   </ol>
 <br>
 

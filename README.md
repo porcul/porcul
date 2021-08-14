@@ -27,9 +27,9 @@
       </ul>
     </li>
     <li>
-      <a href="#">Wasp</a>
+      <a href="#">Crekto</a>
       <ul>
-        <li><a href="#">About Wasp</a></li>
+        <li><a href="#">About Crekto</a></li>
       </ul>
     </li>
     <li><a href="#">Other Projects</a></li>

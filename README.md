@@ -40,7 +40,8 @@
 <!-- CONTACT -->
 ## Contact
 
-Alexandru Coserea - [@amcos_](https://twitter.com/amcos_) - alexandru.c@qpg.ro
+Please contact me via email at alexandru.c@qpg.ro
+Or send me a message via Twitter at [@amcos_](https://twitter.com/amcos_)
 
 
 

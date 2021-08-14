@@ -10,7 +10,7 @@
   </a>
 
   <p align="center">
-   Java, HTML5, CSS enthusiast  <br> NOC FO Engineer at Huawei Enterprise GSC
+    <i>"The ilusion of free will"</i>
   </p>
 </p>
 

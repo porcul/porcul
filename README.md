@@ -22,7 +22,7 @@
     <li>
       <a href="https://github.com/porcul/PunchBOX">PunchBOX</a>
       <ul>
-        <li><a href="https://github.com/porcul/PunchBOX/tree/main/August%202021">August 2021 Logs</a></li>
+        <li><a href="https://github.com/porcul/PunchBOX/tree/main/August%202021%20Logs">August 2021 Logs</a></li>
         <li><a href="https://github.com/porcul/PunchBOX/tree/main/July%202021%20Logs">July 2021 Logs</a></li>
         <li><a href="https://github.com/porcul/PunchBOX/tree/main/June%202021%20Logs">June 2021 Logs</a></li>
         <li><a href="https://github.com/porcul/PunchBOX/tree/main/May%202021%20Logs">May 2021 Logs</a></li>

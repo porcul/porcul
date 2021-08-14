@@ -43,7 +43,6 @@
         <li>Wasp</li>
       </ul>
   </ol>
-<br>
 
 <!-- CONTACT -->
 ## Contact

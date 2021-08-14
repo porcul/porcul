@@ -31,7 +31,6 @@
       </ul>
     </li>
     <li><a href="#">Other Projects</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -39,11 +38,8 @@
 
 <!-- CONTACT -->
 ## Contact
-
-Please contact me via email at alexandru.c@qpg.ro
+Please contact me via email at alexandru.c@qpg.ro <br>
 Or send me a message via Twitter at [@amcos_](https://twitter.com/amcos_)
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->

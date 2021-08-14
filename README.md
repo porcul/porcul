@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://pigu.ro/">
-    <img src="https://pigu.ro/web_img/a_c05d81d8cd6727e365ed19fad1524f01.gif" alt="Logo" width="80" height="80">
+    <img src="https://pigu.ro/web_img/VER_01.png" alt="Logo" width="80" height="80">
   </a>
 
   <p align="center">

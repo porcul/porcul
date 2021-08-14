@@ -36,7 +36,11 @@
     </li>
     <li>Other Projects</li>
       <ul>
-           <li>N/A</li>
+        <li>Quikr.to</li>
+        <li>Ark Quikr</li>
+        <li>Overlimit</li>
+        <li>QPG.RO</li>
+        <li>Wasp</li>
       </ul>
   </ol>
 <br>

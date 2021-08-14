@@ -26,7 +26,7 @@
       </ul>
     </li>
     <li>
-      <a href="#">Crekto</a>
+      <a href="https://github.com/porcul/crekto">Crekto</a>
       <ul>
         <li><a href="#">About Crekto</a></li>
       </ul>

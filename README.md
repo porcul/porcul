@@ -19,14 +19,11 @@
 <!-- TABLE OF CONTENTS -->
   <summary><h2 style="display: inline-block">Projects</h2></summary>
   <ol>
+      <li>
+      <a href="https://quikr.to/">Quikr.to</a>
+    </li>
     <li>
       <a href="https://github.com/porcul/PunchBOX">PunchBOX</a>
-      <ul>
-        <li><a href="https://github.com/porcul/PunchBOX/tree/main/August%202021%20Logs">August 2021 Logs</a></li>
-        <li><a href="https://github.com/porcul/PunchBOX/tree/main/July%202021%20Logs">July 2021 Logs</a></li>
-        <li><a href="https://github.com/porcul/PunchBOX/tree/main/June%202021%20Logs">June 2021 Logs</a></li>
-        <li><a href="https://github.com/porcul/PunchBOX/tree/main/May%202021%20Logs">May 2021 Logs</a></li>
-      </ul>
     </li>
     <li>
       <a href="https://github.com/porcul/crekto">Crekto</a>
@@ -36,7 +33,6 @@
     </li>
     <li>Other Projects</li>
       <ul>
-        <li>Quikr.to</li>
         <li>Ark Quikr</li>
         <li>Overlimit</li>
         <li>QPG.RO</li>

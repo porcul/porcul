@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://WUBI.CO/">
-    <img src="[https://i.imgur.com/11ul9mK.png](https://i.imgur.com/11ul9mK.png)" alt="Logo" width="auto" height="80">
+    <img src="https://i.imgur.com/11ul9mK.png" alt="Logo" width="auto" height="80">
   </a>
 
   <p align="center">
@@ -51,7 +51,6 @@ Or send me a message via Twitter at [@AlexWUBI](https://twitter.com/AlexWUBI)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/coserea-alexandru
 [discord-shield]: https://img.shields.io/discord/287260416416022529?label=DISCORD&style=for-the-badge

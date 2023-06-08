@@ -6,11 +6,11 @@
 <br />
 <p align="center">
   <a href="https://pigu.ro/">
-    <img src="https://pigu.ro/web_img/VER_01.png" alt="Logo" width="80" height="80">
+    <img src="[https://pigu.ro/web_img/VER_01.png](https://i.imgur.com/11ul9mK.png)" alt="Logo" width="auto" height="80">
   </a>
 
   <p align="center">
-    <i>"The illusion of free will"</i>
+    <i>"Expand your brand and digital knowledge with us!"</i>
   </p>
 </p>
 

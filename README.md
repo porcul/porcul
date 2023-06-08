@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://WUBI.CO/">
-    <img src="[https://i.imgur.com/11ul9mK.png](WUBI.CO)" alt="Logo" width="auto" height="80">
+    <img src="[https://i.imgur.com/11ul9mK.png](https://i.imgur.com/11ul9mK.png)" alt="Logo" width="auto" height="80">
   </a>
 
   <p align="center">

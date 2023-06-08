@@ -22,7 +22,7 @@
       <li>
       <a href="https://quikr.to/">Quikr.to</a>
               <ul>
-        <li><a href="https://github.com/porcul/crekto/blob/main/README.md">What is Quikr</a></li>
+        <li><a href="https://github.com/porcul/quikr/blob/main/README.md">About Quikr</a></li>
       </ul>
     </li>
     <li>

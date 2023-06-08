@@ -21,12 +21,15 @@
   <ol>
       <li>
       <a href="https://quikr.to/">Quikr.to</a>
+              <ul>
+        <li><a href="https://github.com/porcul/crekto/blob/main/README.md">What is Quikr</a></li>
+      </ul>
     </li>
     <li>
       <a href="https://github.com/porcul/PunchBOX">PunchBOX</a>
     </li>
     <li>
-      <a href="https://github.com/porcul/crekto">Crekto</a>
+      <a href="https://crekto.com/">Crekto</a>
       <ul>
         <li><a href="https://github.com/porcul/crekto/blob/main/README.md">About Crekto</a></li>
       </ul>

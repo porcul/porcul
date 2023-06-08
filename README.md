@@ -47,7 +47,7 @@
 <!-- CONTACT -->
 ## Contact
 Please contact me via email at alexandru[at]wubi.co <br>
-Or send me a message via Twitter at [@amcos_](https://twitter.com/amcos_)
+Or send me a message via Twitter at [@AlexWUBI](https://twitter.com/AlexWUBI)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
